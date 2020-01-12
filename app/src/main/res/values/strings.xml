@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NASA Picture Of The Day</string>
+    <string name="api_key">ntdPPkJxhMnYUVgK2JD0z3lJylmJXad37nkI6tgq</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="change_layout_manager">Change Layout</string>
+</resources>
